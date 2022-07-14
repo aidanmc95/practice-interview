@@ -1,5 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+#root{
+  height:100%;
+}
+
 .App {
   text-align: center;
+  font-family: SegoeUI;
+  height: 100%;
 }
 
 .App-logo {
@@ -35,4 +47,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }

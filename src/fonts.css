@@ -1,0 +1,24 @@
+@font-face {
+  font-family: SegoeUI;
+  src: url(./font/segoeui.ttf);
+}
+
+@font-face {
+  font-family: SegoeUI-Bold;
+  src: url(./font/segoeuib.ttf);
+}
+
+@font-face {
+  font-family: SegoeUI-SemiBold;
+  src: url(./font/seguisb.ttf);
+}
+
+@font-face {
+  font-family: SegoeUI-Light;
+  src: url(./font/segoeuil.ttf);
+}
+
+@font-face {
+  font-family: SegoeUI-SemiLight;
+  src: url(./font/segoeuisl.ttf);
+}
